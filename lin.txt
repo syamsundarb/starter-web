@@ -1,0 +1,9 @@
+Linux is free. 
+
+First ,It's available free of cost (You don't have to pay to use this OS, other OSes like MS-Windows or Commercial version of Unix may cost you money) 
+
+Second free means freedom to use Linux, i.e. when you get Linux you will also get source code of Linux, so you can modify OS (Yes OS! Linux OS!!) according to your taste. 
+
+It also offers many Free Software applications, programming languages, and development tools etc. Most of the Program/Software/OS are under GNU General Public License (GPL).
+
+
